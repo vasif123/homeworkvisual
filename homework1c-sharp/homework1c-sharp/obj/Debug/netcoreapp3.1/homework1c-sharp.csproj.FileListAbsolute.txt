@@ -1,0 +1,14 @@
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\bin\Debug\netcoreapp3.1\homework1c-sharp.exe
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\bin\Debug\netcoreapp3.1\homework1c-sharp.deps.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\bin\Debug\netcoreapp3.1\homework1c-sharp.runtimeconfig.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\bin\Debug\netcoreapp3.1\homework1c-sharp.runtimeconfig.dev.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\bin\Debug\netcoreapp3.1\homework1c-sharp.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\bin\Debug\netcoreapp3.1\homework1c-sharp.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.csproj.AssemblyReference.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.AssemblyInfoInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.AssemblyInfo.cs
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homework1c-sharp\homework1c-sharp\obj\Debug\netcoreapp3.1\homework1c-sharp.genruntimeconfig.cache

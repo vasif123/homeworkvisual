@@ -1,0 +1,14 @@
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\bin\Debug\netcoreapp3.1\homeworvisual.exe
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\bin\Debug\netcoreapp3.1\homeworvisual.deps.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\bin\Debug\netcoreapp3.1\homeworvisual.runtimeconfig.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\bin\Debug\netcoreapp3.1\homeworvisual.runtimeconfig.dev.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\bin\Debug\netcoreapp3.1\homeworvisual.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\bin\Debug\netcoreapp3.1\homeworvisual.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.csproj.AssemblyReference.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.AssemblyInfoInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.AssemblyInfo.cs
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.csproj.CoreCompileInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworvisual\homeworvisual\obj\Debug\netcoreapp3.1\homeworvisual.genruntimeconfig.cache
