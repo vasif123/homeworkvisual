@@ -1,0 +1,14 @@
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.csproj.AssemblyReference.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.AssemblyInfoInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.AssemblyInfo.cs
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.csproj.CoreCompileInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\bin\Debug\netcoreapp3.1\homeworkkk.exe
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\bin\Debug\netcoreapp3.1\homeworkkk.deps.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\bin\Debug\netcoreapp3.1\homeworkkk.runtimeconfig.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\bin\Debug\netcoreapp3.1\homeworkkk.runtimeconfig.dev.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\bin\Debug\netcoreapp3.1\homeworkkk.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\bin\Debug\netcoreapp3.1\homeworkkk.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\homeworkkk\homeworkkk\obj\Debug\netcoreapp3.1\homeworkkk.genruntimeconfig.cache
